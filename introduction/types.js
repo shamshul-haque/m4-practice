@@ -1,0 +1,10 @@
+var price = 10;
+console.log(typeof price);
+var price = 10.1;
+console.log(typeof price);
+var price = "10";
+console.log(typeof price);
+var price = true;
+console.log(typeof price);
+var romantic;
+console.log(typeof romantic);
