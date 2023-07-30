@@ -19,3 +19,11 @@ tomatoPrice *= 10;
 console.log(tomatoPrice);
 tomatoPrice /= 15;
 console.log(tomatoPrice);
+
+var a = 50;
+// increment
+a++;
+console.log(a);
+// decrement
+a--;
+console.log(a);
