@@ -14,3 +14,6 @@ console.log(removedElement);
 console.log(numbers);
 numbers.shift(); //element will be removed from the first index
 console.log(numbers);
+
+//slice
+console.log(numbers.slice(1, 4)); //will return a copy of portion of an array.
