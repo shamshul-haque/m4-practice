@@ -7,6 +7,6 @@ function pundaCost(shingaraQuantity, somucaQuantity, jilapiQuantiy) {
 }
 const shingra = 4;
 const somuca = 3;
-const jilabi = 3;
-const cost = pundaCost(shingra, somuca, jilabi);
+const jilapi = 3;
+const cost = pundaCost(shingra, somuca, jilapi);
 console.log("Give me", cost, "💰  and take your 🍢");
