@@ -1,8 +1,8 @@
 function pundaCost(shingaraQuantity, somucaQuantity, jilapiQuantiy) {
   const shingaraCost = shingaraQuantity * 7;
   const somucaCost = somucaQuantity * 10;
-  const jilabiCost = jilapiQuantiy * 15;
-  const totalCost = shingaraCost + somucaCost + jilabiCost;
+  const jilapiCost = jilapiQuantiy * 15;
+  const totalCost = shingaraCost + somucaCost + jilapiCost;
   return totalCost;
 }
 const shingra = 4;
